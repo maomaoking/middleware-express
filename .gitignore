@@ -1,0 +1,6 @@
+
+de_modules/*
+credentials.js
+.idea/*
+!node_modules/express-handlebars
+!bin

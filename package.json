@@ -1,0 +1,22 @@
+{
+  "name": "ch10-middleware-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maomaoking/middleware-express.git"
+  },
+  "keywords": [
+    "YanYan521"
+  ],
+  "author": "maomaoking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maomaoking/middleware-express/issues"
+  },
+  "homepage": "https://github.com/maomaoking/middleware-express#readme"
+}
